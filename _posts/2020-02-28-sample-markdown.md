@@ -18,7 +18,7 @@ gh-badge: [star, fork, follow] -->
 이 글은 원본 게시물이 아니며 일부 콘텐츠가 수정되어 있습니다. 원본은 [여기](https://beautifuljekyll.com/2020-02-28-sample-markdown)를 참조해주십시오.
 
 {: .box-success}
-이것은 마크다운으로 블로그 게시물을 작성하는 방법을 보여주는 데모 게시물입니다. [5분 동안 마크다운으로 작성하는 방법](https://markdowntutorial.com/)을 배우는 것을 강력히 권장합니다. - 이 게시물은 일반 텍스트를 볼드/이탤릭/테이블 등으로 변환하는 방법을 알려줄 것입니다.<br/>또한 [이 게시물을 만든 코드](https://raw.githubusercontent.com/skyblue7070/blog/master/_posts/2025-01-21-sample-markdown.md)를 참고하여 Beautiful Jekyll에서 마크다운 사용에 대한 고급 팁을 배우는 것도 권장합니다.
+이것은 마크다운으로 블로그 게시물을 작성하는 방법을 보여주는 데모 게시물입니다. [5분 동안 마크다운으로 작성하는 방법](https://markdowntutorial.com/)을 배우는 것을 강력히 권장합니다. - 이 게시물은 일반 텍스트를 볼드/이탤릭/테이블 등으로 변환하는 방법을 알려줄 것입니다.<br/>또한 [이 게시물을 만든 코드](https://raw.githubusercontent.com/skyblue7070/blog/master/_posts/2020-02-28-sample-markdown.md)를 참고하여 Beautiful Jekyll에서 마크다운 사용에 대한 고급 팁을 배우는 것도 권장합니다.
 
 **이것은 굵은 글씨입니다**
 
