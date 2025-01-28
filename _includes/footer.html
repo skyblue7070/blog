@@ -24,6 +24,12 @@
         </span>
       {% endif %}
 
+      <!-- Cookie cancel -->
+      {% if site.gtag %}
+        &nbsp;&bull;&nbsp;
+        <span onclick='cookieCancel()' class="text-muted" style="cursor: pointer;">쿠키 선택 철회</span>
+      {% endif %}
+
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
           &nbsp;&bull;&nbsp;
