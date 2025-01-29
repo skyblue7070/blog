@@ -1,3 +1,4 @@
+// Cookie
 window.onload = function() {
     cookieBanner = document.querySelector(".cookie-banner");
     cookieYes = document.querySelector("#cookie-yes");
@@ -20,5 +21,4 @@ window.onload = function() {
 function cookieCancel() {
     localStorage.removeItem("cookieAllow");
     location.reload(true);
-
 }

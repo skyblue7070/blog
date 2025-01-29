@@ -39,6 +39,9 @@ layout: base
         </div>
       {% endif %}
 
+      <!-- TOC -->
+      {% include toc.html html=content class="toc" %}
+
       <div class="blog-post">
         {{ content }}
       </div>
