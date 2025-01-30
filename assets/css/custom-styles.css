@@ -65,23 +65,3 @@
 #beautifuljekyll-search-overlay {
   background: rgba(0,0,0,0.7);
 }
-
-/* Cookie */
-.cookie-banner.on {
-  position: fixed;
-  display: block;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  z-index: 2;
-  background: #202020;
-  color: #F0F0F0;
-  padding: 0 2rem;
-  padding-bottom: 2rem;
-}
-.cookie-button {
-  background: #b7e0ff;
-  color: #404040;
-  padding: 1rem 3rem;
-  border-radius: 1rem;
-}

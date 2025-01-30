@@ -1,4 +1,8 @@
 {% if site.gtag %}
+<!-- simple-cookie-banner -->
+<script src="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner/cookie-action.min.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/skyblue7070/simple-cookie-banner/cookie-style.min.css" rel="stylesheet" type="text/css" />
+
 <!-- Defalut cookie -->
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -18,17 +22,6 @@
   gtag('js', new Date());
   gtag('config', '{{ site.gtag }}');
 </script>
-<!-- Click banner -->
-<script>
-  function grantedStorage() {
-    gtag('consent', 'update', {
-      'ad_storage': 'granted',
-      'ad_user_data': 'granted',
-      'ad_personalization': 'granted',
-      'analytics_storage': 'granted'
-    });
-  }
-</script>
 <!-- Cookie banner -->
 <div class="cookie-banner off">
   <p>
@@ -42,8 +35,8 @@
   </button>
 </div>
 <style>
-.cookie-banner.off {
-  display: none;
-}
+  .cookie-button {
+    background-color: #b7e0ff;
+  }
 </style>
 {% endif %}
