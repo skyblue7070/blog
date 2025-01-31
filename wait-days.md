@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 포스팅 중입니다!
+sitemap: false
 ---
 <meta name="robots" content="noindex">
 
