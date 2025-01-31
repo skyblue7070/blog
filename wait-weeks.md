@@ -2,6 +2,7 @@
 layout: page
 title: 포스팅 예정입니다!
 ---
+<meta name="robots" content="noindex">
 
 게시가 되지 않은 글입니다.
 
